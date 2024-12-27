@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Pricecharting.com</ShortName>
+    <Description>Search for games and consoles right from your firefox address bar!</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16" type="image/png">https://www.example.com/icon.png</Image>
+    <Url type="text/html" template="https://www.pricecharting.com/search-products?q={searchTerms}" />
+</OpenSearchDescription>
